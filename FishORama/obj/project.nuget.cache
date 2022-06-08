@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZLhZaf2LDgQYM5/Pw4l0lThoZkpQwjIJH8PguwO8Ut6xfDbDhE6TS7BM5PvFBzODbJ5sfTsfsaU1qlysoBQEyQ==",
+  "success": true,
+  "projectFilePath": "D:\\A.University\\FishORama21\\FishORama21\\FishORama\\FishORama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ionat\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\ionat\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
